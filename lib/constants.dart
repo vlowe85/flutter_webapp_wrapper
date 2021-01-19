@@ -1,0 +1,1 @@
+const webAppUrl = "https://fanatec.com/eu-en/";
